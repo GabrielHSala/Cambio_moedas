@@ -1,4 +1,4 @@
-﻿using System.Runtime.ConstrainedExecution;//
+﻿using System.Runtime.ConstrainedExecution;
 
 int escolha = 0;
 float multiplicador_euro = 0;
